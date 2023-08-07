@@ -1,4 +1,4 @@
-RecordCount: 1629
+RecordCount: 1773
 
 console load 1
    1,D
@@ -89,7 +89,6 @@ console load 1
   40,D
 
 #lvl_4
-***S
    1,D,J
    2,D
    5,R,D
@@ -195,18 +194,16 @@ console load 1
    1,R,D,J,G
    7,R,D
    1,R,D,K,G
-  27,R,D
-   1,R,D,J
-   2,R,D
-  40,D
+  20,R,D
+   3,D
+   4,R,D
+   8,R,D,X
+  43,D
 
 #lvl_6a
-   6,R,D
-   9,L,D
-   1,L,D,J
-  23,L,D
-  10,R,D
-  15,R,D,X
+  34,L,D
+   5,R,D
+  16,R,D,X
   11,L,D,J
    1,D,K
    8,R,D,K
@@ -500,7 +497,6 @@ console load 1
    7,L,D
    1,D,G
    3,D
-
    1,D,J
    7,L,D,J
    9,L,D
@@ -546,5 +542,8 @@ console load 1
    6,R,D
    1,R,D,J
   12,R,D,X
-#1:02.475(3675)
+   1,S,N
+   1,D,J
+  18
 
+ChapterTime: 1:02.407(3671)
