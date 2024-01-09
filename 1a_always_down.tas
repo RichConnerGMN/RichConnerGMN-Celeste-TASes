@@ -1,4 +1,4 @@
-RecordCount: 1809
+RecordCount: 1955
 
 console load 1
    1,D
@@ -86,47 +86,53 @@ console load 1
    3,R,D,K
    2,R,D
   14,R,D,J,G
-  12,L,D,K,G
-   8,D,J,G
-   1,D,K
+  12,R,D,K
+   7,D,J,G
+   2,L,D,J
   40,D
 
 #lvl_4
-   1,D,J
-   2,D
-   5,R,D
-   2,R,D,K
-   1,R,D
-   1,R,D,K
+   2,R,D
    1,R,D,J,G
-  10,R,D,K,G
-   5,R,D
-   3,R,D,K
-   4,D,J
-   2,L,D,J
+   1,R,D,K,G
+   1,D
+   7,D
+   2,R,D
+  14,R,D,J
+   3,D,J
+   1,L,D
    1,D,K,G
-   9,L,D,K,G
-   2,R,D,K
-   7,R,D
-   1,D,G
-  10,R,D,J,G
-   4,R,D,K,G
-   3,R,D
-  14,R,D,X
-   1,L,D,J
-  10,R,D,J
-  12,L,D,K,G
-   7,D,J,G
-   1,R,D,J
+   1,R,D,K
+   4,L,D,K
+   1,L,D
+   1,D,J,G
+   6,L,D,J
+   4,L,D
+   4,R,D,G
+   1,R,D,J,G
+   2,L,D,J
+   3,D,J
+   2,R,D
+   1,R,D
+   1,R,D,K,G
+   1,R,D,J,G
+   2,R,D,K,G
+   6,R,D
+   1,D
+   2,R,D,J
+   8,D,J
+   1,D,K
+  16,L,D,J,G
   12,R,D,K
-   2,D,J,G
+   4,D,J,G
    1,D,K
   40,D
 
 #lvl_3b
-   1,R,J,G
-  10,R
-  10,L,D,X
+   1,D,J,G
+   4,D
+   6,L,D
+   4,R,D,X
   11,R,D,J
    3,R,D,K,G
    1,R,D,J,G
@@ -552,4 +558,4 @@ console load 1
    1,D,J
   18
 
-ChapterTime: 1:01.999(3647)
+ChapterTime: 1:01.676(3628)
