@@ -1,4 +1,4 @@
-RecordCount: 1773
+RecordCount: 1784
 
 console load 1
    1,D
@@ -267,27 +267,24 @@ console load 1
   43,D
 
 #lvl_7
-  11,D
-  10,L,D,X
+   6,J,G
+   6,D
+   4,R,D,X
    5,R,D,J
    1,D,J
   13,R,D,K,G
    2,R,D,J,G
   15,R,D,K,G
    4,D,K
-   1,D
-  10,D,J,G
-   1,D
-   1,L,D
-   1,L,D,K
-  16,L,D,J
-   1,L,D,K,G
-   7,L,D
+   1,D,K
+  11,D,J,G
    1,L,D,J
-  11,D,J
-  12,D,K
+   1,L,D,K
+  17,L,D,J
+  16,L,D,K,G
   12,D,J
-   7,D,K
+  12,L,D,K
+   7,D,J
   40,D
 
 #lvl_8
@@ -336,53 +333,59 @@ console load 1
   40,D
 
 #lvl_9
-   9,D
-   1,R,D,J
-  11,R,D,K
-   3,R,D,J,G
-   1,D,K
-  15,R,D,X
-   6,L,D,J
-   1,L,D,K,G
-   7,L,D
-   1,D,G
-   6,D,J,G
-   8,D
-   1,D,J
-   1,L,D,K,G
-  10,R,D,K
+   7,D
+   1,R,D
   12,R,D,J
-   5,R,D,K,G
-  14,R,D,X
+   1,R,D,K,G
+   2,R,D,J,G
+  11,R,D
+   3,R,D,J
+   3,L,D,J
+   1,L,D,K,G
+   3,L,D,J,G
+   9,D,G
+   1,D,J,G
+   3,D
+   3,D,J
+   5,R,D,J
+   5,D,J
+   5,R,D,X
+   3,D,J
+   4,D,K,G
+   6,L,D,K
+   3,D,J
    1,R,D,J
-   9,R,D,X
-   1,R,D,J
-   7,R,D
-   1,R,D,J
+   4,R,D,K,G
+  17,R,D
+   2,R,D,J
   40,D
 
 #lvl_9b
-  17,R,D,J
-   2,D,K
-   1,L,D,J,G
-   5,L,D,K,G
-   5,L,D,X
-   5,L,D,J
-   4,L,D
-   1,D,G
-   1,D
   11,D,J
-   2,D
-   1,D
-   2,D,K
    1,D,J
-  13,R,D
+   3,D,J
+   8,D,K,G
+   7,L,D,X
+   1,L,D,J
    1,L,D
+   2,L,D,J
+   4,L,D
+   2,L,D,J,G
+   1,D,J,G
+   2,R,D,J
+  14,D,J
+   2,L,D,J
+   1,L,D,K,G
+   2,L,D,K
+   3,L,D
    1,D,J
-   2,L,D,K,G
-  23,R,D,K,G
-  12,D,J,G
-  10,D,K
+   1,R,D
+   6,R,D,X
+   1,L,D,J,G
+  13,R,D,J
+   8,D,J
+  10,R,D,K,G
+  11,D,J
   40,D
 
 #lvl_10a
@@ -546,4 +549,4 @@ console load 1
    1,D,J
   18
 
-ChapterTime: 1:02.407(3671)
+ChapterTime: 1:01.982(3646)
